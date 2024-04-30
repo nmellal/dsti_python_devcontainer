@@ -2,3 +2,4 @@ flask
 jupyter
 pandas
 numpy
+ydata_profiling
